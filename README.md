@@ -1,1 +1,1 @@
-# AlgoPractice
+# DSA, Patterns, Problem Solving 
